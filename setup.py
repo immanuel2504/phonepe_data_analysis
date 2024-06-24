@@ -15,7 +15,7 @@ setup(
     description='A project for analyzing PhonePe transaction data',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/yourusername/phonepe_data_analysis',  # Replace with your GitHub repo URL
+    url='https://github.com/immanuel2504/phonepe_data_analysis',  # Replace with your GitHub repo URL
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
